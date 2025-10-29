@@ -1,0 +1,1 @@
+Frontend: Vite + React. Deploy on Vercel. Ensure src/config.js BACKEND_URL points to backend URL.
