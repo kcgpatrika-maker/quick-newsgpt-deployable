@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: quick-newsgpt-backend-v2
+    env: node
+    buildCommand: "npm install"
+    startCommand: "npm start"
+    plan: free
